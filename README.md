@@ -1,2 +1,2 @@
 # AppNote
-Um aplicativo de notas.
+Um aplicativo para salvar as suas anotações.
